@@ -119,6 +119,11 @@ Ex:
       tipos String e int... não sendo compatíveis...
 
 
+  ## Benefícios do uso do tipo Curinga :
+  
+  ☞ Performance
+  ☞ Supertipo de qualquer tipo de list
+  ☞ Construção de métodos que recebem um genérico de qualquer tipo
   
 
 
