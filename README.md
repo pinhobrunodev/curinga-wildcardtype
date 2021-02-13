@@ -13,7 +13,7 @@ Ex:
 
 
 📌 2-Entretanto, uma LIST do tipo int,integer,double,float,string,byte... etc,
-nao sao subtipos de uma LIST do tipo OBJECT.
+não são subtipos de uma LIST do tipo OBJECT.
 
 Ex:
 
