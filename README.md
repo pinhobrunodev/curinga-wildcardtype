@@ -1,4 +1,4 @@
-## Utilização do tipo Curinga (Wildcard type)  <?>
+##  ✍🏻 Utilização do tipo Curinga (Wildcard type)  <?>
 
 
 
@@ -119,7 +119,7 @@ Ex:
       tipos String e int... não sendo compatíveis...
 
 
-  ## Benefícios do uso do tipo Curinga :
+  ##  ✍🏻 Benefícios do uso do tipo Curinga :
   
   ☞ Performance
   ☞ Supertipo de qualquer tipo de list
